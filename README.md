@@ -271,27 +271,6 @@ I try to make every repository understandable to someone seeing it for the first
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinhthaitong&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Thai Tong GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhthaitong&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Thai Tong most-used languages" />
-
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=vinhthaitong&theme=transparent&hide_border=true" alt="Thai Tong GitHub contribution streak" />
-
-<br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinhthaitong&theme=github-compact&hide_border=true&area=true" alt="Thai Tong GitHub activity graph" />
-
-</div>
-
-> Public GitHub statistics do not include every academic, professional, private, or collaborative contribution.
-
----
-
 ## Let's Connect
 
 <div align="center">
