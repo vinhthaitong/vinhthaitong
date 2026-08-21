@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/vinh-thai-tong-703a91311/">
   <img src="https://img.shields.io/badge/LinkedIn-Vinh%20Thai%20Tong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
-<a href="./Thai_Tong_Resume.pdf">
+<a href="Thai Tong_Resume.pdf">
   <img src="https://img.shields.io/badge/View%20Resume-PDF-B91C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume" />
 </a>
 
