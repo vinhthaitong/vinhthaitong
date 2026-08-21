@@ -11,8 +11,11 @@
 <a href="https://github.com/vinhthaitong?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
 </a>
-<a href="https://github.com/vinhthaitong">
-  <img src="https://img.shields.io/badge/Follow%20My%20Work-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+<a href="https://www.linkedin.com/in/vinh-thai-tong-703a91311/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinh%20Thai%20Tong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="./Thai_Tong_Resume.pdf">
+  <img src="https://img.shields.io/badge/View%20Resume-PDF-B91C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume" />
 </a>
 
 <br><br>
@@ -100,6 +103,38 @@ Graph modeling, depth-first search, route enumeration, optimization criteria, an
 ## Featured Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### [HackUTD 2025 — Personal Finance Dashboard](https://github.com/koolname99/hackUTD2025)
+
+A full-stack personal finance application built for HackUTD 2025, combining financial tracking, secure authentication, data visualization, and an AI-powered assistant in one responsive dashboard.
+
+**Highlights**
+
+- Tracks income, expenses, net worth, transactions, subscriptions, and account information
+- Provides an AI assistant for spending insights and personalized financial guidance
+- Uses Auth0 authentication with email verification and protected application access
+- Connects a React frontend to a Node.js REST API backed by MongoDB
+- Visualizes spending trends, category breakdowns, and income-versus-expense data with Recharts
+
+**Technologies**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+
+<br>
+
+<a href="https://github.com/koolname99/hackUTD2025">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View HackUTD 2025 Personal Finance Dashboard" />
+</a>
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -282,8 +317,11 @@ I enjoy learning from other developers, discussing technical ideas, and collabor
 <a href="https://github.com/vinhthaitong">
   <img src="https://img.shields.io/badge/GitHub-vinhthaitong-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-<a href="https://github.com/vinhthaitong?tab=repositories">
-  <img src="https://img.shields.io/badge/My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+<a href="https://www.linkedin.com/in/vinh-thai-tong-703a91311/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="./Thai_Tong_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-B91C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume PDF" />
 </a>
 
 <br><br>
